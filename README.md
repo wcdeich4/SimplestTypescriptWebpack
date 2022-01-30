@@ -1,1 +1,1 @@
-# SimplestTypescriptWebpack
+super simplest Typescript Webpack
